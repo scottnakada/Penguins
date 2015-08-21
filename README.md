@@ -31,11 +31,11 @@
           On the <a href="http://scottnakada.github.io/Penguins/yoPenguins/dist/public/index.html">web</a>:<br><br>
         </li>
         <li>
-          <a href="http://www.amazon.com/Quickstart-Prototypes-GitViewer/dp/B0144CR3GI/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1440007082&sr=1-1&keywords=gitviewer">
+          <a href="http://www.amazon.com/Quickstart-Prototypes-Learn-about-Penguins/dp/B01486HQ9Y/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1440172469&sr=1-4&keywords=penguins&refinements=p_n_theme_browse-bin%3A2479024011">
             <img src="images/Android.png"/>
           </a>
           On Android devices through the
-          <a href="http://www.amazon.com/Quickstart-Prototypes-GitViewer/dp/B0144CR3GI/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1440007082&sr=1-1&keywords=gitviewer">
+          <a href="http://www.amazon.com/Quickstart-Prototypes-Learn-about-Penguins/dp/B01486HQ9Y/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1440172469&sr=1-4&keywords=penguins&refinements=p_n_theme_browse-bin%3A2479024011">
             Amazon Apps Store
           </a>.
         </li>
@@ -44,7 +44,7 @@
             <img src="images/Apple.png"/>
           </a>
           On Apple devices (iPhone/iPad), by downloading an app called Ionic View, and selecting the
-          app id: <a href="http://scottnakada.github.io/GitViewer/index.html#ios">0FA8D8B2</a>:<br><br>
+          app id: <a href="http://scottnakada.github.io/Penguins/index.html#ios">0FA8D8B2</a>:<br><br>
         </li>
       </ol>
     </h4>
