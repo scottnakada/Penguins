@@ -3,13 +3,13 @@
   <br>
     <center>
       <a href="http://scottnakada.github.io/Penguins/yoPenguins/dist/public/index.html">
-        <img src="images/resources/LaptopPenguins.png" width="45%">
+        <img src="images/LaptopPenguins.png" width="45%">
       </a>
       <a href="http://www.amazon.com/Quickstart-Prototypes-Learn-about-Penguins/dp/B01486HQ9Y/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1440172469&sr=1-4&keywords=penguins&refinements=p_n_theme_browse-bin%3A2479024011">
-        <img src="images/resources/AndroidPenguins.png" width="15%">
+        <img src="images/AndroidPenguins.png" width="15%">
       </a>&nbsp;&nbsp;&nbsp;
       <a href="http://scottnakada.github.io/Penguins/#ios">
-        <img src="images/resources/iPadPenguins.png" width="30%">
+        <img src="images/iPadPenguins.png" width="30%">
       </a>
     </center>
   <br>
