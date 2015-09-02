@@ -8,13 +8,16 @@
 
                 // Links to the Platform Apps
                 $scope.web = {
-                    link: "http://scottnakada.github.io/Penguins/yoPenguins/dist/public/index.html"
+                    link: "http://scottnakada.github.io/Penguins/yoPenguins/dist/public/index.html",
+                    image: "images/LaptopPenguins.png"
                 };
                 $scope.android = {
-                    link: "http://www.amazon.com/Quickstart-Prototypes-Learn-about-Penguins/dp/B01486HQ9Y/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1440172469&sr=1-4&keywords=penguins&refinements=p_n_theme_browse-bin%3A2479024011"
+                    link: "http://www.amazon.com/Quickstart-Prototypes-Learn-about-Penguins/dp/B01486HQ9Y/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1440172469&sr=1-4&keywords=penguins&refinements=p_n_theme_browse-bin%3A2479024011",
+                    image: "images/AndroidPenguins.png"
                 };
                 $scope.ios = {
                     link: "#ios",
+                    image: "images/iPadPenguins.png",
                     ionicViewId: "0FA8D8B2"
                 };
                 $scope.github = {
